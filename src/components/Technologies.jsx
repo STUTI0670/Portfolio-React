@@ -1,9 +1,4 @@
-import { RiReactjsLine } from "react-icons/ri";
-import { TbBrandNextjs } from "react-icons/tb";
-import { SiMongodb } from "react-icons/si";
-import { DiRedis } from "react-icons/di";
-import { FaNodeJs } from "react-icons/fa";
-import { BiLogoPostgresql } from "react-icons/bi";
+import { SiHtml5, SiCss3, SiJavascript, SiReact } from "react-icons/si";
 import { motion } from "framer-motion"; // Import Framer Motion
 
 const Technologies = () => {
@@ -24,37 +19,25 @@ const Technologies = () => {
           className="rounded-2xl border-4 border-neutral-800 p-4"
           whileHover={wobbleAnimation}
         >
-          <RiReactjsLine className="text-7xl text-cyan-400" />
+          <SiHtml5 className="text-7xl text-orange-500" />
         </motion.div>
         <motion.div
           className="rounded-2xl border-4 border-neutral-800 p-4"
           whileHover={wobbleAnimation}
         >
-          <TbBrandNextjs className="text-7xl text-white" />
+          <SiCss3 className="text-7xl text-blue-500" />
         </motion.div>
         <motion.div
           className="rounded-2xl border-4 border-neutral-800 p-4"
           whileHover={wobbleAnimation}
         >
-          <SiMongodb className="text-7xl text-green-400" />
+          <SiJavascript className="text-7xl text-yellow-400" />
         </motion.div>
         <motion.div
           className="rounded-2xl border-4 border-neutral-800 p-4"
           whileHover={wobbleAnimation}
         >
-          <DiRedis className="text-7xl text-red-500" />
-        </motion.div>
-        <motion.div
-          className="rounded-2xl border-4 border-neutral-800 p-4"
-          whileHover={wobbleAnimation}
-        >
-          <FaNodeJs className="text-7xl text-green-500" />
-        </motion.div>
-        <motion.div
-          className="rounded-2xl border-4 border-neutral-800 p-4"
-          whileHover={wobbleAnimation}
-        >
-          <BiLogoPostgresql className="text-7xl text-blue-400" />
+          <SiReact className="text-7xl text-cyan-400" />
         </motion.div>
       </div>
     </div>
