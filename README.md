@@ -5,9 +5,8 @@ A personal portfolio website built with React.js. This project showcases your sk
 ## Features
 
 - **Responsive Design:** Works seamlessly on desktop and mobile devices.
-- **Project Showcase:** Highlight your best work with descriptions and links.
-- **About Me Section:** Share your background, skills, and interests.
-- **Contact Form:** Allow visitors to reach out easily.
+- **Project Showcase:** Highlight best work with descriptions and links.
+- **About Me Section:** Share my background, skills, and interests.
 - **Modern UI:** Clean and visually appealing interface.
 
 ## Getting Started
@@ -54,24 +53,4 @@ Portfolio-React/
 - `src/components`: React components for different sections (About, Projects, Contact, etc.)
 - `src/assets`: Images and other static resources
 
-## Customization
 
-- **Update your information:** Edit the data in the components (e.g., About, Projects, Contact) to personalize the portfolio.
-- **Add new projects:** Add project details and images in the Projects section/component.
-- **Styling:** Tweak the CSS or use a CSS framework for a unique look.
-
-## Deployment
-
-You can deploy your portfolio using services like [GitHub Pages](https://pages.github.com/), [Vercel](https://vercel.com/), or [Netlify](https://www.netlify.com/).
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for suggestions or improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Showcase your work and make a great impression with your Portfolio!**
