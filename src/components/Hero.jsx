@@ -26,7 +26,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.5, duration: 1 }}
             >
-              Full Stack Developer
+              Tech Enthusiast
             </motion.span>
 
             {/* Animated Description */}
