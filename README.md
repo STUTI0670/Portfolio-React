@@ -1,6 +1,6 @@
 # Portfolio-React
 
-A personal portfolio website built with React.js. This project showcases your skills, projects, and contact information in a modern, responsive web layout.
+A personal portfolio website built with React.js. This project showcases  skills, projects, and contact information in a modern, responsive web layout.
 
 ## Features
 
