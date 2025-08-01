@@ -52,7 +52,7 @@ export const PROJECTS = [
   title: "Code Editor",
   image: project4, // Replace with your actual code editor project image path
   description:
-    "An online code editor that allows users to write, edit, and preview HTML, CSS, and JavaScript code in real-time. Designed for beginners and developers to practice web development in a browser-based environment without needing any setup. It includes features like live preview, syntax highlighting, and responsive layout.",
+    "An online code editor that allows users to write, edit, and preview HTML, CSS, and JavaScript code in real-time.",
   technologies: ["HTML", "CSS", "JavaScript", "CodeMirror", "Live Preview"],
 },
 
