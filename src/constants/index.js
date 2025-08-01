@@ -9,19 +9,20 @@ export const ABOUT_TEXT = `Beyond building projects, I find purpose in creating 
 
 export const EXPERIENCES = [
   {
-    year: "Jan 2025 - Present",
+  year: "Jun 2025 - Present ",
+  role: "Web Development Intern",
+  company: "NITI Aayog ",
+  description: `Designed and developed a frontend landing page for Agriculture Dashboard using HTML, CSS, and JavaScript to visualize crop demand and supply data. `,
+  technologies: ["HTML", "CSS", "JS"],
+},
+{
+    year: "Jan 2025 - Apr 2025",
     role: "Research Intern",
     company: "DRDO",
     description: `Worked on learning and understanding deep learning concepts and working of cryptographic stream ciphers. Implemented Autoencoders to study feature extraction and reconstruct MNIST data.`,
     technologies: ["Neural Networks", "Ciphers", "Autoencoders"],
   },
-  {
-    year: "Jun 2024 - 2024",
-    role: "MERN Stack Trainee",
-    company: "Centre Of Excellence IGDTUW",
-    description: `Learnt and reinforced concepts of JavaScript and also learnt about various frameworks like  MongoDB, Express.js, React.js, and Node.js.`,
-    technologies: ["JavaScript", "MERN"],
-  },
+  
   {
     year: "Jun 2024 - Jul 2024",
     role: "Student Trainee Intern",
@@ -40,13 +41,6 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS","Javascript"],
   },
   {
-    title: "Snap Chat AR Lense",
-    image: project2,
-    description:
-      "An augmented reality lens for Snapchat that allows users to interact with virtual objects in real-time.",
-    technologies: ["Lens Studio"],
-  },
-  {
     title: "Portfolio Website",
     image: project3,
     description:
@@ -54,12 +48,24 @@ export const PROJECTS = [
     technologies: ["React"],
   },
   {
-    title: "Waste Wises",
-    image: project4,
+  title: "Code Editor",
+  image: project4, // Replace with your actual code editor project image path
+  description:
+    "An online code editor that allows users to write, edit, and preview HTML, CSS, and JavaScript code in real-time. Designed for beginners and developers to practice web development in a browser-based environment without needing any setup. It includes features like live preview, syntax highlighting, and responsive layout.",
+  technologies: ["HTML", "CSS", "JavaScript", "CodeMirror", "Live Preview"],
+},
+
+  
+  {
+    title: "Snap Chat AR Lense",
+    image: project2,
     description:
-      "A platform for understanding different types of waste and their disposal methods, with a focus on environmental awareness. Also includes a AI chatbot for waste management queries.",
-    technologies: ["HTML", "CSS","AI-ML"],
+      "An augmented reality lens for Snapchat that allows users to interact with virtual objects in real-time.",
+    technologies: ["Lens Studio"],
   },
+   
+  
+ 
 ];
 
 export const CONTACT = {
